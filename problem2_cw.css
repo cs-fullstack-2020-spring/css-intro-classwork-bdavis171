@@ -1,0 +1,26 @@
+p   {
+    background-color: gray;
+    margin-right: 10%;
+}
+
+.secondParagraph {
+    background-color: blue;
+    margin-left: 35%;
+}
+
+.secthrd {
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#jibberish {
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    border: 3px dashed black;
+    text-align: center;
+    margin-left: 35%;
+
+}
