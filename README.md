@@ -1,4 +1,5 @@
 # CSS Intro to Selectors and Box Model
+#### Good work! 4/5
 
 ### Exercise 1:
 
@@ -16,7 +17,7 @@ Create a new HTML file called ```problem1_cw.html```, and copy the code below in
 
 
 ### Exercise 2:
-
+#### second paragraph should be centered on the page
 Start with the included HTML file ```problem2_cw.html```. Create an external CSS file called ```problem2_cw.css``` and create selectors to style the HTML as follows:
 
 * Give the p tags a gray background, and a right margin of 10%. 
